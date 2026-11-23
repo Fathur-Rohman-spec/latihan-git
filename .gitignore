@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Build
+dist/
+
+# Environment / Secret
+.env
+
+# System files
+.DS_Store
